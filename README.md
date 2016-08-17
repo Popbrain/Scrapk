@@ -1,4 +1,4 @@
-# Scrapk
+# ScrApk
 
 This project provides the command to decompile an apk.
 
